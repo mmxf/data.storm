@@ -31,6 +31,26 @@
       <artifactId>storm-core</artifactId>
       <version>1.2.2</version>
     </dependency>
+    <dependency>
+      <groupId>org.apache.storm</groupId>
+      <artifactId>storm-kafka</artifactId>
+      <version>1.2.2</version>
+    </dependency>
+
+
+
+    <dependency>
+      <groupId>org.apache.kafka</groupId>
+      <artifactId>kafka_2.10</artifactId>
+      <version>0.8.2.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.kafka</groupId>
+      <artifactId>kafka-clients</artifactId>
+      <version>0.8.2.1</version>
+    </dependency>
+
+
     <!-- https://mvnrepository.com/artifact/com.google.collections/google-collections -->
     <dependency>
       <groupId>commons-collections</groupId>
